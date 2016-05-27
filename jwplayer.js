@@ -11,7 +11,7 @@ jwplayer.defaults = {
   "controls": true,
   "displaydescription": true,
   "displaytitle": true,
-  "flashplayer": "//ssl.p.jwpcdn.com/player/v/7.4.2/jwplayer.flash.swf",
+  "flashplayer": "https://cdn.rawgit.com/suryadewa/JWhost/master/jwplayer.flash.swf",
   "height": 270,
   "hlshtml": true,
   "key": "TkzpjuAOdc/PtjeZ7M0zaBZdKl2HMEgqyPmgQprBYnkTQbVtBNpguRd7d1s=",
@@ -34,6 +34,7 @@ jwplayer.defaults = {
   "primary": "flash",
   "repeat": false,
   "skin": {
+    "url":"https://cdn.rawgit.com/suryadewa/JWhost/master/skins/six.css",
     "name": "six"
   },
   "stagevideo": false,
