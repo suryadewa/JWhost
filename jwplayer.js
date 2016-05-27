@@ -33,9 +33,6 @@ jwplayer.defaults = {
   "preload": "none",
   "primary": "flash",
   "repeat": false,
-  "skin": {
-    "name": "six"
-  },
   "stagevideo": false,
   "stretching": "uniform",
   "visualplaylist": true,
