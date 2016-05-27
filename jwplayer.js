@@ -34,7 +34,6 @@ jwplayer.defaults = {
   "primary": "flash",
   "repeat": false,
   "skin": {
-    "url":"https://cdn.rawgit.com/suryadewa/JWhost/master/skins/six.css",
     "name": "six"
   },
   "stagevideo": false,
